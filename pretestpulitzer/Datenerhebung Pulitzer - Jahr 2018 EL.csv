@@ -1,0 +1,78 @@
+edgelist,,,
+from ,to,weight,Kommentar
+JoKa,MeTw,3,
+JoKa,RoFa,2,
+MeTw,RoFa,2,
+JoKa,NYT,3,arbeitet für Medium
+JoKa,WaPo,2,Ihr Buch wurde in dem Medium vorgestellt/erwähnt
+JoKa,ClBa,1,auf Twitter abonniert
+JoKa,AnMa,1,auf Twitter abonniert
+JoKa,RaKaGh,1,beide auf Twitter in fremdem Post erwähnt
+JoKa,JeSa,1,beide auf Twitter in fremdem Post erwähnt
+JoKa,JaHa,3,arbeiten u.a für dasselbe Medium (NYT)
+JoKa,RE,2,Ihr Buch wurde in dem Medium vorgestellt/erwähnt
+MeTw,NYT,3,arbeitet für Medium
+MeTw,WaPo,2,Ihr Buch wurde in dem Medium vorgestellt/erwähnt
+MeTw,ClBa,1,auf Twitter abonniert
+MeTw,AnMa,1,"auf Twitter abonniert, Retweet"
+MeTw,JeSa,1,auf twitter abonniert
+MeTw,RE,3,hat schon für Medium geschrieben
+RoFa,UsTo,2,sein Buch wurde in dem Medium vorgestellt
+RoFa,NYT,2,hat mit 2 NYT Journalisten zusammengearbeitet
+RoFa,WaPo,2,sein Buch wurde in dem Medium vorgestellt
+RoFa,ClBa,1,auf Twitter abonniert
+RoFa,RaKaGh,1,beide auf Twitter in fremdem Post erwähnt
+RoFa,JoAr,1,auf Twitter abonniert
+RoFa,RyKe,1,auf Twitter abonniert
+ArRe,UsTo,2,haben zusammen Preis gewonnen (Journalism 360 Challenge)
+ArRe,WaPo,2,"Arizona Republic wird in Artikel von der Washingto Post erwähnt
+"
+ArRe,AnDo,2,Artikel über Journalist veröffentlicht
+ArRe,RE,2,"Bericht über anderes Medium
+"
+UsTo,NYT,2,"USA today berichtet über NYT
+"
+UsTo,WaPo,2,USA today berichtet über Washington Post
+UsTo,AnMa,2,USA today berichtet über Journalist (Marshall hat schon 2014 Pulitzer gewonnen)
+UsTo,JaHa,2,USA today berichtet über Journalist
+UsTo,RE,2,Reuters berichtet über Medium
+NYT,"WaPo
+",2,"Kooperation bei einer Online Community Plattform
+"
+NYT,ClBa,1,auf twitter abonniert
+NYT,AnMa,1,auf twitter abonniert
+NYT,RaKaGh,3,"Journalistin schreibt für Medium
+"
+NYT,JoAr,1,auf twitter abonniert
+NYT,JeSa,2,wurde in Artikel der NYT erwähnt
+NYT,AnDo,2,Buch von Journalistin wird in Artikel erwähnt
+NYT,JaHa,3,schreibt für Medium
+NYT,MiSl,3,schreibt für Medium
+NYT,RyKe,1,auf twitter abonniert
+NYT,RE,2,"Kooperation 
+"
+PrDe,JoKa,2,Ihr Buch wurde in dem Medium vorgestellt/erwähnt
+PrDe,MeTw,2,Ihr Buch wurde in dem Medium vorgestellt/erwähnt
+PrDe,RoFa,2,Medium berichtet über Journalist
+PrDe,"WaPo
+",2,"Gemeinsames Editorial
+"
+PrDe,RE,2,"The Press democrat berichtet über Reuters
+"
+CiEn,NYT,2,NYT berichtet über Medium
+"CiEn
+",WaPo,2,Cincinnati Enquirer berichtet über Medium
+CiEn,RE,2,Cincinnati Enquirer berichtet über Medium
+ClBa,MaMo,3,"haben zusammen Pulitzer Preis gewonnen
+"
+ClBa,"AnMa
+",3,"haben zusammen Pulitzer Preis gewonnen
+"
+ClBa,RE,3,Arbeitgeber
+AnMa,MaMo,3,"haben zusammen Pulitzer Preis gewonnen
+"
+AnMa,RE,3,Arbeitgeber
+MaMo,RE,3,Arbeitgeber
+JaHa,MiSl,3,"haben zusammen Pulitzer Preis gewonnen, Kollegen
+"
+RE,CiEn,2,Quelle in einem Artikel (Bildunterschrift)
